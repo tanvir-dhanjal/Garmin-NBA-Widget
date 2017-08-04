@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="15" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="16" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="17" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="18" pc="268435520" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="19" pc="268435549" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="23" pc="268435579" symbol="onLayout"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="30" pc="268435584" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="31" pc="268435588" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="32" pc="268435622" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="33" pc="268435659" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="34" pc="268435705" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="36" pc="268435724" symbol="onShow"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="40" pc="268435737" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="41" pc="268435741" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="42" pc="268435753" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="43" pc="268435773" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="44" pc="268435809" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="45" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="46" pc="268435879" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="47" pc="268435915" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="48" pc="268435993" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="49" pc="268436077" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="51" pc="268436112" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="52" pc="268436164" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="53" pc="268436206" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="54" pc="268436283" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="58" pc="268436287" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="59" pc="268436304" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="60" pc="268436381" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="64" pc="268436385" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="65" pc="268436392" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="66" pc="268436413" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="67" pc="268436461" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="68" pc="268436509" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="70" pc="268436522" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="71" pc="268436533" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="72" pc="268436555" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="78" pc="268436584" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="79" pc="268436646" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="80" pc="268436672" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="82" pc="268436735" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="84" pc="268436782" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="85" pc="268436808" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="87" pc="268436886" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="89" pc="268436948" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="90" pc="268436974" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="92" pc="268437046" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="96" pc="268437108" symbol="onUpdate"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="102" pc="268437118" symbol="onHide"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="107" pc="268437123" symbol="getLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="108" pc="268437127" symbol="getLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="109" pc="268437143" symbol="getLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="114" pc="268437205" symbol="onReceiveLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="115" pc="268437209" symbol="onReceiveLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="116" pc="268437220" symbol="onReceiveLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="117" pc="268437236" symbol="onReceiveLinks"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="122" pc="268437252" symbol="getCurrentScoreboard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="123" pc="268437256" symbol="getCurrentScoreboard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="124" pc="268437289" symbol="getCurrentScoreboard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="128" pc="268437351" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="129" pc="268437355" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="130" pc="268437355" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="131" pc="268437366" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="132" pc="268437382" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="133" pc="268437398" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="134" pc="268437428" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="135" pc="268437454" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="137" pc="268437493" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="138" pc="268437518" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="139" pc="268437556" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="140" pc="268437594" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="143" pc="268437623" symbol="onReceiveCurrentScorecard"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="149" pc="268437648" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="150" pc="268437652" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="151" pc="268437659" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="152" pc="268437695" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="153" pc="268437715" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="154" pc="268437733" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="155" pc="268437751" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="156" pc="268437769" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="157" pc="268437787" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="157" pc="268437817" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="158" pc="268437827" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="158" pc="268437857" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="160" pc="268437867" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="162" pc="268437880" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="163" pc="268437916" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="164" pc="268437984" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="165" pc="268438055" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="166" pc="268438109" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="168" pc="268438166" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="169" pc="268438207" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="170" pc="268438225" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="171" pc="268438243" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="173" pc="268438247" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="174" pc="268438266" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="176" pc="268438349" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="177" pc="268438373" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="181" pc="268438433" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="182" pc="268438497" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="183" pc="268438535" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="184" pc="268438592" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="187" pc="268438691" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="190" pc="268438754" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="191" pc="268438772" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="192" pc="268438790" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="193" pc="268438807" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="194" pc="268438830" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="195" pc="268438854" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="197" pc="268438970" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="198" pc="268439036" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="199" pc="268439146" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="203" pc="268439212" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="204" pc="268439219" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="205" pc="268439255" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="206" pc="268439275" symbol="printGame"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="211" pc="268439348" symbol="printMessage"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="212" pc="268439352" symbol="printMessage"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="213" pc="268439388" symbol="printMessage"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="217" pc="268439431" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="218" pc="268439435" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="219" pc="268439435" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="220" pc="268439501" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="221" pc="268439558" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="223" pc="268439574" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="224" pc="268439585" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="225" pc="268439599" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="227" pc="268439615" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="230" pc="268439625" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="231" pc="268439651" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="233" pc="268439682" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="236" pc="268439689" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAView.mc" lineNum="237" pc="268439702" symbol="convertUTCToLocal"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="8" pc="268439706" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="9" pc="268439710" symbol="initialize"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="13" pc="268439729" symbol="onStart"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="14" pc="268439733" symbol="onStart"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="18" pc="268439763" symbol="onStop"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="22" pc="268439768" symbol="getInitialView"/>
+<entry filename="/Users/tanvir.d/Documents/workspace/NBA/source/NBAApp.mc" lineNum="23" pc="268439772" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268439810" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268439814" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268439838" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268439882" symbol="draw"/>
+<entry filename="Rez" lineNum="25" pc="268439886" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268439893" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268439900" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268439913" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268439926" symbol="draw"/>
+<entry filename="Rez" lineNum="32" pc="268439949" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="33" pc="268439953" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268439989" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268440033" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268440069" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="50" pc="268440118" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="28" method="true" symbol="onReceiveCurrentScorecard"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="29" method="true" symbol="printGame"/>
+<entry id="25" method="true" symbol="getLinks"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="14" object="true" symbol="NBABase"/>
+<entry field="true" id="20" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry field="true" id="22" symbol="linksMap"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="30" method="true" symbol="printMessage"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="27" method="true" symbol="getCurrentScoreboard"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="26" method="true" symbol="onReceiveLinks"/>
+<entry field="true" id="24" symbol="numGames"/>
+<entry field="true" id="15" symbol="image_id_basket"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="NBAApp"/>
+<entry field="true" id="21" symbol="base"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="12" symbol="id_basket"/>
+<entry field="true" id="19" symbol="baseURL"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="23" symbol="currentGameMap"/>
+<entry id="31" method="true" symbol="convertUTCToLocal"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8" object="true" symbol="NBAView"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436584" name="i" stackId="3" startPc="268436413"/>
+<entry endPc="268437105" name="swapindex" stackId="2" startPc="268436164"/>
+<entry endPc="268437204" name="homeURL" stackId="1" startPc="268437127"/>
+<entry endPc="268437350" name="homeURL" stackId="1" startPc="268437256"/>
+<entry endPc="268437493" name="i" stackId="3" startPc="268437428"/>
+<entry endPc="268438430" name="seriesText" stackId="13" startPc="268438207"/>
+<entry endPc="268438430" name="seriesDisplay" stackId="14" startPc="268438207"/>
+<entry endPc="268438430" name="playoff" stackId="12" startPc="268438207"/>
+<entry endPc="268438663" name="gameQuarter" stackId="15" startPc="268438497"/>
+<entry endPc="268439209" name="startDate" stackId="17" startPc="268438754"/>
+<entry endPc="268439209" name="localGameTime" stackId="19" startPc="268438754"/>
+<entry endPc="268439209" name="startTime" stackId="16" startPc="268438754"/>
+<entry endPc="268439209" name="clockTime" stackId="18" startPc="268438754"/>
+<entry endPc="268439209" name="homeScore" stackId="9" startPc="268437659"/>
+<entry endPc="268439209" name="mid" stackId="11" startPc="268437659"/>
+<entry endPc="268439209" name="homeTeam" stackId="7" startPc="268437659"/>
+<entry endPc="268439209" name="visitorScore" stackId="10" startPc="268437659"/>
+<entry endPc="268439209" name="visitorTeam" stackId="8" startPc="268437659"/>
+<entry endPc="268439705" name="hour" stackId="4" startPc="268439435"/>
+<entry endPc="268439705" name="min" stackId="5" startPc="268439435"/>
+<entry endPc="268439705" name="hourOffset" stackId="6" startPc="268439435"/>
+<entry endPc="268439705" name="outTime" stackId="3" startPc="268439435"/>
+<entry endPc="268439948" name="pWidth" stackId="4" startPc="268439886"/>
+<entry endPc="268439948" name="pY" stackId="3" startPc="268439886"/>
+<entry endPc="268439948" name="pX" stackId="2" startPc="268439886"/>
+<entry endPc="268439948" name="pHeight" stackId="5" startPc="268439886"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="NBAView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="NBAView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="NBAView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="NBAView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="NBAView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getLinks" parent="NBAView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceiveLinks" parent="NBAView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getCurrentScoreboard" parent="NBAView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceiveCurrentScorecard" parent="NBAView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="printGame" parent="NBAView">
+<param id="x1"/>
+<param id="y1"/>
+<param id="x2"/>
+<param id="y2"/>
+<param id="gameInfo"/>
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="printMessage" parent="NBAView">
+<param id="x"/>
+<param id="y"/>
+<param id="dc"/>
+<param id="msg"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="convertUTCToLocal" parent="NBAView">
+<param id="startTime"/>
+<param id="offset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NBAApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="NBAApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="NBAApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="NBAApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NBABase">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="NBABase">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="NBABase">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
