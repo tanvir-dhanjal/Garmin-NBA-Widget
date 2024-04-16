@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="1" lineNum="8" parent="globals/NBAView" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="1" lineNum="9" parent="globals/NBAView" pc="268435478" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="1" lineNum="19" parent="globals/NBAView" pc="268435492" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="2" lineNum="71" parent="globals/NBAView" pc="268435507" symbol="onShow"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="2" lineNum="72" parent="globals/NBAView" pc="268435509" symbol="onShow"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="3" lineNum="64" parent="globals/NBAView" pc="268435522" symbol="onLayout"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="3" lineNum="65" parent="globals/NBAView" pc="268435524" symbol="onLayout"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="103" parent="globals/NBAView" pc="268435566" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="105" parent="globals/NBAView" pc="268435570" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="106" parent="globals/NBAView" pc="268435616" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="108" parent="globals/NBAView" pc="268435698" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="110" parent="globals/NBAView" pc="268435705" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="111" parent="globals/NBAView" pc="268435715" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="112" parent="globals/NBAView" pc="268435723" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="118" parent="globals/NBAView" pc="268435787" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="4" lineNum="119" parent="globals/NBAView" pc="268435805" symbol="makeApiRequest"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="76" parent="globals/NBAView" pc="268435832" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="77" parent="globals/NBAView" pc="268435836" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="78" parent="globals/NBAView" pc="268435847" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="79" parent="globals/NBAView" pc="268435873" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="81" parent="globals/NBAView" pc="268435886" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="82" parent="globals/NBAView" pc="268435896" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="83" parent="globals/NBAView" pc="268435916" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="84" parent="globals/NBAView" pc="268435940" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="85" parent="globals/NBAView" pc="268435957" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="86" parent="globals/NBAView" pc="268435991" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="87" parent="globals/NBAView" pc="268436025" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="88" parent="globals/NBAView" pc="268436053" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="89" parent="globals/NBAView" pc="268436081" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="90" parent="globals/NBAView" pc="268436109" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="92" parent="globals/NBAView" pc="268436137" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="93" parent="globals/NBAView" pc="268436163" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="98" parent="globals/NBAView" pc="268436204" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="5" lineNum="99" parent="globals/NBAView" pc="268436217" symbol="onReceive"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="6" lineNum="123" parent="globals/NBAView" pc="268436244" symbol="timerCallback"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="6" lineNum="124" parent="globals/NBAView" pc="268436246" symbol="timerCallback"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="23" parent="globals/NBAView" pc="268436263" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="24" parent="globals/NBAView" pc="268436265" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="26" parent="globals/NBAView" pc="268436283" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="27" parent="globals/NBAView" pc="268436370" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="28" parent="globals/NBAView" pc="268436457" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="29" parent="globals/NBAView" pc="268436544" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="30" parent="globals/NBAView" pc="268436631" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="31" parent="globals/NBAView" pc="268436718" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="32" parent="globals/NBAView" pc="268436805" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="33" parent="globals/NBAView" pc="268436892" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="34" parent="globals/NBAView" pc="268436979" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="35" parent="globals/NBAView" pc="268437066" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="36" parent="globals/NBAView" pc="268437153" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="37" parent="globals/NBAView" pc="268437240" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="38" parent="globals/NBAView" pc="268437327" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="39" parent="globals/NBAView" pc="268437414" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="40" parent="globals/NBAView" pc="268437501" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="41" parent="globals/NBAView" pc="268437588" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="42" parent="globals/NBAView" pc="268437675" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="43" parent="globals/NBAView" pc="268437762" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="44" parent="globals/NBAView" pc="268437849" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="45" parent="globals/NBAView" pc="268437936" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="46" parent="globals/NBAView" pc="268438023" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="47" parent="globals/NBAView" pc="268438110" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="48" parent="globals/NBAView" pc="268438197" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="49" parent="globals/NBAView" pc="268438284" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="50" parent="globals/NBAView" pc="268438371" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="51" parent="globals/NBAView" pc="268438458" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="52" parent="globals/NBAView" pc="268438545" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="53" parent="globals/NBAView" pc="268438632" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="54" parent="globals/NBAView" pc="268438719" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="55" parent="globals/NBAView" pc="268438806" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="58" parent="globals/NBAView" pc="268438893" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="59" parent="globals/NBAView" pc="268438942" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="7" lineNum="60" parent="globals/NBAView" pc="268438991" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="8" lineNum="238" parent="globals/NBAView" pc="268439041" symbol="onHide"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="8" lineNum="239" parent="globals/NBAView" pc="268439043" symbol="onHide"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="128" parent="globals/NBAView" pc="268439058" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="129" parent="globals/NBAView" pc="268439062" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="130" parent="globals/NBAView" pc="268439092" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="133" parent="globals/NBAView" pc="268439127" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="134" parent="globals/NBAView" pc="268439153" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="136" parent="globals/NBAView" pc="268439172" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="137" parent="globals/NBAView" pc="268439184" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="138" parent="globals/NBAView" pc="268439203" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="141" parent="globals/NBAView" pc="268439222" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="142" parent="globals/NBAView" pc="268439262" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="144" parent="globals/NBAView" pc="268439306" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="145" parent="globals/NBAView" pc="268439346" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="147" parent="globals/NBAView" pc="268439393" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="148" parent="globals/NBAView" pc="268439409" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="150" parent="globals/NBAView" pc="268439425" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="151" parent="globals/NBAView" pc="268439451" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="152" parent="globals/NBAView" pc="268439473" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="160" parent="globals/NBAView" pc="268439528" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="168" parent="globals/NBAView" pc="268439592" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="177" parent="globals/NBAView" pc="268439641" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="178" parent="globals/NBAView" pc="268439667" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="186" parent="globals/NBAView" pc="268439722" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="194" parent="globals/NBAView" pc="268439786" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="202" parent="globals/NBAView" pc="268439835" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="203" parent="globals/NBAView" pc="268439857" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="211" parent="globals/NBAView" pc="268439900" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="213" parent="globals/NBAView" pc="268439943" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="214" parent="globals/NBAView" pc="268439962" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="216" parent="globals/NBAView" pc="268439981" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="217" parent="globals/NBAView" pc="268439988" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="218" parent="globals/NBAView" pc="268440005" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="219" parent="globals/NBAView" pc="268440015" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="220" parent="globals/NBAView" pc="268440032" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="223" parent="globals/NBAView" pc="268440042" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="224" parent="globals/NBAView" pc="268440054" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAView.mc" id="9" lineNum="225" parent="globals/NBAView" pc="268440108" symbol="onUpdate"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="10" lineNum="7" parent="globals/Rez" pc="268440161" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="11" lineNum="6" parent="globals/NBAApp" pc="268440185" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="12" lineNum="13" parent="globals/NBAApp" pc="268440204" symbol="onStart"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="12" lineNum="14" parent="globals/NBAApp" pc="268440206" symbol="onStart"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="13" lineNum="22" parent="globals/NBAApp" pc="268440236" symbol="getInitialView"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="13" lineNum="23" parent="globals/NBAApp" pc="268440238" symbol="getInitialView"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="14" lineNum="8" parent="globals/NBAApp" pc="268440279" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="14" lineNum="9" parent="globals/NBAApp" pc="268440281" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" id="15" lineNum="18" parent="globals/NBAApp" pc="268440300" symbol="onStop"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="16" lineNum="11" parent="globals/Rez/Drawables/NBABase" pc="268440303" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="17" lineNum="13" parent="globals/Rez/Drawables/NBABase" pc="268440322" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="17" lineNum="14" parent="globals/Rez/Drawables/NBABase" pc="268440324" symbol="initialize"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="18" lineNum="17" parent="globals/Rez/Drawables/NBABase" pc="268440349" symbol="draw"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="18" lineNum="18" parent="globals/Rez/Drawables/NBABase" pc="268440351" symbol="draw"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="18" lineNum="19" parent="globals/Rez/Drawables/NBABase" pc="268440362" symbol="draw"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="18" lineNum="20" parent="globals/Rez/Drawables/NBABase" pc="268440374" symbol="draw"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="19" lineNum="39" parent="globals/Rez/Layouts" pc="268440382" symbol="MainLayout"/>
+        <entry filename="/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/bin/gen/006-B4426-00/source/Rez.mcgen" id="19" lineNum="40" parent="globals/Rez/Layouts" pc="268440392" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="27" method="true" symbol="MainLayout"/>
+        <entry field="true" id="28" symbol="BoldFont"/>
+        <entry field="true" id="19" symbol="&lt;globals/NBAView/&lt;&gt;screenHeight&gt;"/>
+        <entry field="true" id="16" symbol="&lt;globals/NBAView/&lt;&gt;lightFont&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="29" symbol="LightFont"/>
+        <entry id="10" object="true" symbol="NBAView"/>
+        <entry field="true" id="11" symbol="apiKey"/>
+        <entry field="true" id="30" symbol="SemiBoldFont"/>
+        <entry field="true" id="31" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="26" object="true" symbol="NBABase"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry field="true" id="14" symbol="gameStats"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="17" method="true" symbol="makeApiRequest"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="18" method="true" symbol="onReceive"/>
+        <entry id="22" method="true" symbol="timerCallback"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="8389670" symbol="screenShape"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="&lt;globals/NBAView/&lt;&gt;colorMap&gt;"/>
+        <entry id="9" object="true" symbol="NBAApp"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="21" symbol="&lt;globals/NBAView/&lt;&gt;semiBoldFont&gt;"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry field="true" id="8389487" symbol="state"/>
+        <entry field="true" id="20" symbol="&lt;globals/NBAView/&lt;&gt;screenWidth&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="12" symbol="&lt;globals/NBAView/&lt;&gt;boldFont&gt;"/>
+        <entry field="true" id="15" symbol="index"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435565" name="dc" stackId="1" startPc="268435522"/>
+        <entry endPc="268435830" name="now" stackId="1" startPc="268435570"/>
+        <entry endPc="268435830" name="todayDate" stackId="2" startPc="268435570"/>
+        <entry endPc="268435830" name="tempDate" stackId="3" startPc="268435570"/>
+        <entry endPc="268435830" name="url" stackId="4" startPc="268435570"/>
+        <entry endPc="268435830" name="params" stackId="5" startPc="268435570"/>
+        <entry endPc="268435830" name="options" stackId="6" startPc="268435570"/>
+        <entry endPc="268435830" name="responseCallback" stackId="7" startPc="268435570"/>
+        <entry arg="true" endPc="268436243" name="responseCode" stackId="1" startPc="268435832"/>
+        <entry arg="true" endPc="268436243" name="data" stackId="2" startPc="268435832"/>
+        <entry endPc="268436200" name="gameData" stackId="3" startPc="268435847"/>
+        <entry endPc="268436200" name="i" stackId="4" startPc="268435940"/>
+        <entry arg="true" endPc="268440160" name="dc" stackId="1" startPc="268439058"/>
+        <entry endPc="268440159" name="myTimer" stackId="2" startPc="268439062"/>
+        <entry endPc="268439939" name="currGame" stackId="3" startPc="268439153"/>
+        <entry endPc="268439939" name="x" stackId="4" startPc="268439153"/>
+        <entry endPc="268439939" name="y" stackId="5" startPc="268439153"/>
+        <entry endPc="268439939" name="titleA" stackId="6" startPc="268439153"/>
+        <entry endPc="268439939" name="titleB" stackId="7" startPc="268439153"/>
+        <entry endPc="268440159" name="label" stackId="8" startPc="268439943"/>
+        <entry arg="true" endPc="268440235" name="state" stackId="1" startPc="268440204"/>
+        <entry arg="true" endPc="268440381" name="dc" stackId="1" startPc="268440349"/>
+        <entry arg="true" endPc="268440398" name="dc" stackId="1" startPc="268440382"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="SemiBoldFont"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="LightFont"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="BoldFont"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/NBAView" offset="158" parentId="globals" symbolId="NBAView" type="class"/>
+        <dataEntry label="globals/Rez" offset="341" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/NBAApp" offset="420" parentId="globals" symbolId="NBAApp" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="491" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="538" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="608" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="663" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="702" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/NBABase" offset="733" parentId="Drawables" symbolId="NBABase" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435506" name="&lt;init&gt;" parent="NBAView" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435521" name="onShow" parent="NBAView" startPc="268435507">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435565" name="onLayout" parent="NBAView" startPc="268435522">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435831" name="makeApiRequest" parent="NBAView" startPc="268435566">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436243" name="onReceive" parent="NBAView" startPc="268435832">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436262" name="timerCallback" parent="NBAView" startPc="268436244">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439040" name="initialize" parent="NBAView" startPc="268436263">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439057" name="onHide" parent="NBAView" startPc="268439041">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440160" name="onUpdate" parent="NBAView" startPc="268439058">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440184" name="&lt;init&gt;" parent="Rez" startPc="268440161">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440203" name="&lt;init&gt;" parent="NBAApp" startPc="268440185">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440235" name="onStart" parent="NBAApp" startPc="268440204">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440278" name="getInitialView" parent="NBAApp" startPc="268440236">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440299" name="initialize" parent="NBAApp" startPc="268440279">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440302" name="onStop" parent="NBAApp" startPc="268440300">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440321" name="&lt;init&gt;" parent="NBABase" startPc="268440303">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440348" name="initialize" parent="NBABase" startPc="268440322">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440381" name="draw" parent="NBABase" startPc="268440349">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440398" name="MainLayout" parent="Layouts" startPc="268440382">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

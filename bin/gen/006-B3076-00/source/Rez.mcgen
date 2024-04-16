@@ -1,0 +1,89 @@
+import Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.WatchUi as Ui;
+using Toybox.Graphics;
+using Toybox.Graphics as Gfx;
+
+module Rez {
+    module Drawables {
+        (:initialized) var id_basket as Symbol;
+        (:initialized) var Logo as Symbol;
+        (:initialized) var atl as Symbol;
+        (:initialized) var bos as Symbol;
+        (:initialized) var bkn as Symbol;
+        (:initialized) var cha as Symbol;
+        (:initialized) var chi as Symbol;
+        (:initialized) var cle as Symbol;
+        (:initialized) var dal as Symbol;
+        (:initialized) var den as Symbol;
+        (:initialized) var det as Symbol;
+        (:initialized) var gsw as Symbol;
+        (:initialized) var hou as Symbol;
+        (:initialized) var ind as Symbol;
+        (:initialized) var lac as Symbol;
+        (:initialized) var lal as Symbol;
+        (:initialized) var mem as Symbol;
+        (:initialized) var mia as Symbol;
+        (:initialized) var mil as Symbol;
+        (:initialized) var min as Symbol;
+        (:initialized) var nop as Symbol;
+        (:initialized) var nyk as Symbol;
+        (:initialized) var okc as Symbol;
+        (:initialized) var orl as Symbol;
+        (:initialized) var phi as Symbol;
+        (:initialized) var phx as Symbol;
+        (:initialized) var por as Symbol;
+        (:initialized) var sac as Symbol;
+        (:initialized) var sas as Symbol;
+        (:initialized) var tor as Symbol;
+        (:initialized) var uta as Symbol;
+        (:initialized) var was as Symbol;
+        (:initialized) var LauncherIcon as Symbol;
+
+        class NBABase extends WatchUi.Drawable {
+
+            (:initialized) var image_id_basket as WatchUi.BitmapResource;
+
+            function initialize() {
+                Drawable.initialize({});
+                image_id_basket = (WatchUi.loadResource($.Rez.Drawables.id_basket) as WatchUi.BitmapResource);
+            }
+
+            function draw(dc as Graphics.Dc) as Void {
+                if (self has :isVisible) {
+                    if (!self.isVisible) {
+                        return;
+                    }
+                }
+
+                dc.setColor(Gfx.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+                dc.fillRectangle((0 + 0), (0 + 0), (240 - 0), (240 - 0));
+                dc.setColor(Graphics.COLOR_TRANSPARENT, Gfx.COLOR_BLACK);
+
+                dc.drawBitmap(( (0 + 0) + 0 ), ( (0 + 0) + 0 ), image_id_basket);
+            }
+        }
+    } // Drawables
+
+    module Fonts {
+        (:initialized) var BoldFont as Symbol;
+        (:initialized) var LightFont as Symbol;
+        (:initialized) var SemiBoldFont as Symbol;
+    } // Fonts
+
+    module JsonData {
+    } // JsonData
+
+    module Layouts {
+        function MainLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            return [] as Array<WatchUi.Drawable>;
+        }
+    } // Layouts
+
+    module Menus {
+    } // Menus
+
+    module Strings {
+        (:initialized) var AppName as Symbol;
+    } // Strings
+} // Rez

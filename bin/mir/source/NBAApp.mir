@@ -1,0 +1,54 @@
+[ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 1; ]
+using Toybox.Application as :App;
+[ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 2; ]
+using Toybox.System as :Sys;
+[ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 4; @position = 4; ]
+var screenShape;
+[ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 6; ]
+class NBAApp extends App.AppBase{
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 6; ]
+    <init> {
+    }
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 6; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 8; ]
+    function initialize() as Void {
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_8_26_start:
+[ "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" 9 8 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_8_26_stop:
+    }
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 13; ]
+    function onStart(state) {
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_13_28_start:
+[ "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" 14 5 ]
+        %tmp.1 = getm $.Toybox.System;
+        %tmp.2 = getv function %tmp.1 :getDeviceSettings;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        %tmp.4 = getv %tmp.3 :screenShape;
+        putv self :screenShape %tmp.4;
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_13_28_stop:
+    }
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 18; ]
+    function onStop(state) {
+    }
+    [ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 22; ]
+    function getInitialView() {
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_22_30_start:
+[ "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc" 23 8 ]
+        %tmp.1 = newa 1;
+        %tmp.5 = getv ? :NBAView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        ret %tmp.7;
+_Users_tanvirsingh_Garmin_Garmin_NBA_Widget_source_NBAApp_mc_22_30_stop:
+    }
+}
+[ @file = "/Users/tanvirsingh/Garmin/Garmin-NBA-Widget/source/NBAApp.mc"; @line = 1; ]
+<init> {
+}

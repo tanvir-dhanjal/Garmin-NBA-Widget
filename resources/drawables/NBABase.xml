@@ -1,3 +1,2 @@
-<drawable-list id="NBABase" background="Gfx.COLOR_BLACK">
-	<bitmap id="id_basket" x="0" y="0" filename="../drawables/Base.png" />
+<drawable-list id="NBABase">
 </drawable-list>
